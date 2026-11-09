@@ -1,6 +1,7 @@
-# yashumani.ai — the wiki hub
+# The Decoded Series — wiki hub
 
-The full write-ups behind [@yashumani.ai](https://www.instagram.com/yashumani.ai).
+The full write-ups behind the **Decoded Series** on
+[@yashumani.ai](https://www.instagram.com/yashumani.ai).
 Each post shares some of the idea; the wiki shares the rest.
 
 **How it works:** comment **DECODED** on a post and the link to its wiki arrives by DM.
