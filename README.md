@@ -11,6 +11,7 @@ Each post shares some of the idea; the wiki shares the rest.
 - [01 — Chatbot vs Agent: turn ChatGPT into an agent in 3 moves](01-chatbot-vs-agent/README.md) — context, tools, and the check, plus a minimal harness you can run.
 - [02 — Workflows vs Agents: not everything needs an agent](02-workflows-vs-agents/README.md) — the flowchart test, both examples, and a minimal router you can run.
 - [03 — The 3 rules that make AI reliable](03-three-rules/README.md) — a separate checker, a guardrail that blocks, and evals that can fail a release, plus a runnable eval gate.
+- [04 — RAG, simply explained](04-rag-simply-explained/README.md) — retrieve, read, answer; how to retrieve well, RAG vs fine-tuning, and the scoreboard, plus a tiny runnable demo.
 
 ## Principles
 
