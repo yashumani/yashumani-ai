@@ -12,6 +12,7 @@ Each post shares some of the idea; the wiki shares the rest.
 - [02 — Workflows vs Agents: not everything needs an agent](02-workflows-vs-agents/README.md) — the flowchart test, both examples, and a minimal router you can run.
 - [03 — The 3 rules that make AI reliable](03-three-rules/README.md) — a separate checker, a guardrail that blocks, and evals that can fail a release, plus a runnable eval gate.
 - [04 — RAG, simply explained](04-rag-simply-explained/README.md) — retrieve, read, answer; how to retrieve well, RAG vs fine-tuning, and the scoreboard, plus a tiny runnable demo.
+- [Microsoft 365 outage (bonus news post)](05-microsoft-outage/README.md) — a network change, not a hack, took Microsoft 365 down worldwide; the full timeline + sources.
 
 ## Principles
 
