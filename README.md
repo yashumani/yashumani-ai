@@ -17,6 +17,7 @@ Each post shares some of the idea; the wiki shares the rest.
 - [08 — Self-improving evals, the problem: a +9% gain that was luck, not a better model](08-self-improving-evals/README.md) — what the transcript found.
 - [09 — Self-improving evals, the fix: the 5-step loop](09-self-improving-evals-solution/README.md) — two eval types, five steps, and the runnable demo.
 - [10 — Agent memory, the problem: your agent forgets everything (and the fix has an install screen)](10-claude-mem-problem/README.md) — hooks, compression, layered retrieval, and the three catches.
+- [11 — Agent memory, the fix: build the 7-file version, locally](11-claude-mem-build/README.md) — the 7-file rebuild, the safe local-only install, and a runnable demo.
 - [Microsoft 365 outage (bonus news post)](05-microsoft-outage/README.md) — a network change, not a hack, took Microsoft 365 down worldwide; the full timeline + sources.
 
 ## Principles
