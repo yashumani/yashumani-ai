@@ -16,6 +16,7 @@ Each post shares some of the idea; the wiki shares the rest.
 - [06 — Gen AI in 10 steps: the ladder](06-genai-ladder/README.md) — using AI and building with it are 10 ideas apart; all 10 rungs, with the rule and the check for each.
 - [08 — Self-improving evals, the problem: a +9% gain that was luck, not a better model](08-self-improving-evals/README.md) — what the transcript found.
 - [09 — Self-improving evals, the fix: the 5-step loop](09-self-improving-evals-solution/README.md) — two eval types, five steps, and the runnable demo.
+- [10 — Agent memory, the problem: your agent forgets everything (and the fix has an install screen)](10-claude-mem-problem/README.md) — hooks, compression, layered retrieval, and the three catches.
 - [Microsoft 365 outage (bonus news post)](05-microsoft-outage/README.md) — a network change, not a hack, took Microsoft 365 down worldwide; the full timeline + sources.
 
 ## Principles
