@@ -14,6 +14,7 @@ Each post shares some of the idea; the wiki shares the rest.
 - [04 — RAG, simply explained](04-rag-simply-explained/README.md) — retrieve, read, answer; how to retrieve well, RAG vs fine-tuning, and the scoreboard, plus a tiny runnable demo.
 - [05 — Context engineering, simply explained](05-context-engineering/README.md) — deciding what goes into the context window; the 4 failure modes, the 4 fixes, and why less context works better.
 - [06 — Gen AI in 10 steps: the ladder](06-genai-ladder/README.md) — using AI and building with it are 10 ideas apart; all 10 rungs, with the rule and the check for each.
+- [08 — Self-improving evals, the problem: a +9% gain that was luck, not a better model](08-self-improving-evals/README.md) — what the transcript found.
 - [Microsoft 365 outage (bonus news post)](05-microsoft-outage/README.md) — a network change, not a hack, took Microsoft 365 down worldwide; the full timeline + sources.
 
 ## Principles
