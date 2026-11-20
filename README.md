@@ -20,6 +20,10 @@ Each post shares some of the idea; the wiki shares the rest.
 - [11 — Agent memory, the fix: build the 7-file version, locally](11-claude-mem-build/README.md) — the 7-file rebuild, the safe local-only install, and a runnable demo.
 - [Microsoft 365 outage (bonus news post)](05-microsoft-outage/README.md) — a network change, not a hack, took Microsoft 365 down worldwide; the full timeline + sources.
 
+## Quick-fire series
+
+- [Ep. 1 — Claude Code: 20 commands in 60 seconds](quick-fire-01-claude-code/README.md) — twenty commands in four beats, every one from Claude Code's own docs.
+
 ## Principles
 
 - Governed AI, decoded — with evidence.
