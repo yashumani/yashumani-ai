@@ -23,6 +23,7 @@ Each post shares some of the idea; the wiki shares the rest.
 ## Quick-fire series
 
 - [Ep. 1 — Claude Code: 20 commands in 60 seconds](quick-fire-01-claude-code/README.md) — twenty commands in four beats, every one from Claude Code's own docs.
+- [Ep. 2 — Codex: 20 commands in 60 seconds](quick-fire-02-codex/README.md) — twenty commands in four beats, every one verified against the shipped CLI itself.
 
 ## Principles
 
