@@ -21,6 +21,7 @@ Each post shares some of the idea; the wiki shares the rest.
 - [Microsoft 365 outage (bonus news post)](05-microsoft-outage/README.md) — a network change, not a hack, took Microsoft 365 down worldwide; the full timeline + sources.
 - [The Harness Leaderboard: same model, different harness, measured](harness-leaderboard/README.md) — hold the model fixed and swap only the harness: the full v0.1.9 table, how the board keeps the comparison fair, the noise numbers, and the checklist for choosing a harness.
 - [Gemini Decisions API: the checker, as a product](gemini-decisions-api/README.md) — Gemini Decision 1 scores up to 1,000 bounded questions in one pass instead of judging in paragraphs; the decision call in code, the gate / router / grader jobs, and the checklist for trusting a score.
+- [OpenClaw: the agent runtime that lives in your chat apps](openclaw-agent/README.md) — a persistent runtime on your own machine, talked to through WhatsApp, Telegram, Slack or Discord: the 4-layer Gateway architecture, the agent loop, and the safety checklist for skills and ClawHub.
 
 ## Quick-fire series
 
