@@ -23,6 +23,7 @@ Each post shares some of the idea; the wiki shares the rest.
 - [Gemini Decisions API: the checker, as a product](gemini-decisions-api/README.md) — Gemini Decision 1 scores up to 1,000 bounded questions in one pass instead of judging in paragraphs; the decision call in code, the gate / router / grader jobs, and the checklist for trusting a score.
 - [OpenClaw: the agent runtime that lives in your chat apps](openclaw-agent/README.md) — a persistent runtime on your own machine, talked to through WhatsApp, Telegram, Slack or Discord: the 4-layer Gateway architecture, the agent loop, and the safety checklist for skills and ClawHub.
 - [The Gemini agent: an agent with an identity, a budget, and a boss's inbox](gemini-agent/README.md) — what Google announced at Gemini at Work: coworker agents with their own Workspace accounts, per-project spending caps that pause them, and the four security questions as a deploy checklist.
+- [Hermes Agent: the agent that rewrites its own skills](hermes-agent/README.md) — the learning loop (experience → skill → memory → better next run), the independent audit findings on v0.8.0, and the checklist for trusting an agent that rewrites itself.
 
 ## Quick-fire series
 
