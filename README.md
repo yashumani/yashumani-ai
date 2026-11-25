@@ -19,6 +19,7 @@ Each post shares some of the idea; the wiki shares the rest.
 - [10 — Agent memory, the problem: your agent forgets everything (and the fix has an install screen)](10-claude-mem-problem/README.md) — hooks, compression, layered retrieval, and the three catches.
 - [11 — Agent memory, the fix: build the 7-file version, locally](11-claude-mem-build/README.md) — the 7-file rebuild, the safe local-only install, and a runnable demo.
 - [Microsoft 365 outage (bonus news post)](05-microsoft-outage/README.md) — a network change, not a hack, took Microsoft 365 down worldwide; the full timeline + sources.
+- [The Harness Leaderboard: same model, different harness, measured](harness-leaderboard/README.md) — hold the model fixed and swap only the harness: the full v0.1.9 table, how the board keeps the comparison fair, the noise numbers, and the checklist for choosing a harness.
 
 ## Quick-fire series
 
