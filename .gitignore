@@ -1,0 +1,18 @@
+# Secrets — never commit real values
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies / build output
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+.venv/
+
+# OS / editor
+.DS_Store
